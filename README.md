@@ -1,0 +1,1 @@
+# microsoft8.x-Sikiliastirma-Klavuzu
