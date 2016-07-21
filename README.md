@@ -1,1 +1,1 @@
-        # Microsoft IIS 8.x Sıkılaştırma Kılavuzu
+# Microsoft IIS 8.x Sıkılaştırma Kılavuzu
