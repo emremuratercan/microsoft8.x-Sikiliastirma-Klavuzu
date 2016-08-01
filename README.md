@@ -8,3 +8,5 @@ Tüm içeriği [Wiki](https://github.com/emremuratercan/microsoft8.x-Sikiliastir
 
 [VM linki](https://drive.google.com/open?id=0B4Xc-oUijxsiX1d2RlN5cDE3TDQ)
 Script içerisinde masaüstündedir.
+
+Ayrıca sıkılaştırma klavuzunda yazdığım bazı [scriptler buradadır.](https://drive.google.com/open?id=0B4Xc-oUijxsiUHNZY3pfc1FrS28)
